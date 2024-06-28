@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    font-family: 'pretendard';
+    caret-color: #6D19E0;
+}
+
+.accent_color {
+    color: #6D19E0;
+}
+
+.bold {
+    font-weight: 700;
+    line-height: 160%;
+    letter-spacing: -0.35px;
+}
+
+.regular {
+    font-weight: 500;
+    line-height: 160%;
+    letter-spacing: -0.35px;
+}
+
+.caption {
+    font-size: 12px;
+}
+
+.textSmall {
+    font-size: 14px;
+}
+
+.textMedium {
+    font-size: 16px;
+}
+
+.textLarge {
+    font-size: 18px;
+}
+
+.titleSmall {
+    font-size: 24px;
+}
+
+.titleMedium {
+    font-size: 28px;
+}
+
+.titleLarge {
+    font-size: 36px;
+}
